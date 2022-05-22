@@ -7,7 +7,7 @@
 </>
 - 🌱 I’m currently learning **Full Web Stack Development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, MongoDb, Express, React, Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, MongoDb, Express, React, Redux**
 
 - 💬 Interest **Reading, Learn new things on internet**
 
